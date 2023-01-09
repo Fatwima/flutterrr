@@ -6,7 +6,7 @@ void main() {
       "hello",
       textDirection: TextDirection.ltr,
       style: TextStyle(
-          color: Colors.cyan, fontStyle: FontStyle.italic, fontSize: 150,backgroundColor: Colors.blue  ),
+          color: Colors.cyan, fontStyle: FontStyle.italic,backgroundColor: Colors.blue  ),
     ),
   ));
 }
